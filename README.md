@@ -1,2 +1,2 @@
-# Fenland-Landscape-Survey
-Archaeological landscape regression of the South Lincolnshire silt fens
+# Fenland Landscape Survey
+Community heritage project studying landscape development of the South Lincolnshire Fens.
